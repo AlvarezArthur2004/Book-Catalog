@@ -1,1 +1,1 @@
-Simple Book Catalog on ASP NET MVC
+Book Catalog on ASP NET MVC
